@@ -1,0 +1,36 @@
+{
+  "name": "alexa-reply-api",
+  "version": "1.0.1",
+  "description": "a very powerful reply generator that can translate Your reply into any language specified using google translate's api",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "md5": "latest",
+    "superagent": "latest",
+    "@iamtraction/google-translate": "latest"
+  },
+  "license": "MIT",
+  "keywords": [
+    "alexa",
+    "ai",
+    "bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-mortal-phoenix/alexa-reply-api.git"
+  },
+  "author": "Ryan Felps",
+  "engines": {
+    "node": ">=11.0.0",
+    "npm": ">=6.0.0"
+  },
+  "files": [
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/The-mortal-phoenix/alexa-reply-api/issues"
+  },
+  "homepage": "https://github.com/The-mortal-phoenix/alexa-reply-api#readme"
+}
