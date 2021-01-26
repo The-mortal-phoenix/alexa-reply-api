@@ -140,4 +140,3 @@ Supported Languages:
     'yi': 'Yiddish',
     'yo': 'Yoruba',
     'zu': 'Zulu'
-    ```
